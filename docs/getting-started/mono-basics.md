@@ -100,6 +100,7 @@ Create a text file with the name hello.aspx and the content:
 <%@ Page Language="C#" %>
 <html>
 <head>
+   <meta charset="utf-8">
    <title>Sample Calendar</title>
 </head>
 <asp:calendar showtitle="true" runat="server">
